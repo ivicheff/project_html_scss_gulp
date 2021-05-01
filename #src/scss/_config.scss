@@ -5,7 +5,8 @@
 //<Font-weights>
 $font-weights: (
   "bold": 700,
-  "medium": 400,
+  "medium": 600,
+  "regular": 400,
   "light": 300,
   "thin": 100
 );
@@ -21,7 +22,7 @@ $font-weights: (
 // @import url("https://unpkg.com/swiper/swiper-bundle.min.css");
 
 //<Default font>
-$fontFamily: 'Helvetica Neue Cyr', 'sans-serif';
+$fontFamily: ;
 
 //<Variables>
 $minWidth: 320px;
@@ -29,7 +30,7 @@ $maxWidth: 1920px;
 $maxWidthContainer: 1500px;
 
 //<Colors>
-$white: #fff;
-$red: #f23005;
-$black: #000;
-$gray: #151515;
+$primary-color: ;
+$secondary-color: ;
+$neutral: #000;
+$other: #151515;

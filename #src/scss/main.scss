@@ -2,3 +2,7 @@
 @import "mixins";
 @import "null";
 @import "fonts";
+
+body {
+  font-family: $fontFamily;
+}
