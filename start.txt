@@ -1,1 +1,6 @@
-npm init && npm install -g npm-install-all && inpm-install-all gulpfile.js && gulp
+npm init -y
+npm i
+install -g npm-install-all
+npm-install-all gulpfile.js
+npm install webp-converter 
+gulp
