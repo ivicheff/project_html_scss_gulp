@@ -1,4 +1,4 @@
-# project_html_scss_gulp
+# project_html_scss_gulp OLD GULP SETUP
 
 This is a ready to write code setup
 
